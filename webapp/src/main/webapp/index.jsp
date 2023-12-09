@@ -27,7 +27,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-  <h1> Thankyou,  V Kishor kumar </h1>
+  <h1> Thankyou,  Pandurang Bugade</h1>
 
   
 </form>
